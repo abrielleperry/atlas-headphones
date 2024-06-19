@@ -1,6 +1,6 @@
 #  Web Design Headphones Desktop and Mobile 
 
-###  Our Website is published here:  https://lustrous-trifle-3e1e5d.netlify.app/
+###  Our Website is published here:  (https://abrielleperry.github.io/atlas-headphones/)
 ###  Authors: 
 - Abrielle Perry
 - Allyson Ugarte
