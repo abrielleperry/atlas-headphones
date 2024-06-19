@@ -331,7 +331,7 @@ body {
 }
 .our-results {
     background-image: url(images/headphones_hero_2.jpg);
-    /* width: 100%; */
+    width: 100%;
     align-items: center;
     display: flex;
     flex-direction: column; 
