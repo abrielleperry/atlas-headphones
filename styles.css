@@ -290,6 +290,7 @@ body {
   text-align: center;
   margin-bottom: 97px;
   padding: 20px;
+  max-width: 25%;
 }
 .icon-sections {
   display: flex;
@@ -505,6 +506,8 @@ input[type="text"] {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .footer-logo img {
