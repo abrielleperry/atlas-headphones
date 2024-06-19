@@ -75,7 +75,6 @@ h1, h2, h3, a, p {
 body {
   margin: 0px;
   padding: 0px;
-  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -314,7 +313,6 @@ body {
 }
 .icons img {
   flex-direction: row;
-  overflow: hidden;
 }
 .icons h3 {
   flex-direction: row;
