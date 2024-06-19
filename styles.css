@@ -336,6 +336,7 @@ body {
     display: flex;
     flex-direction: column; 
     justify-content: center;
+    background-repeat: no-repeat;
 }
 .our-results .results {
     color: var(--text-color-white);
